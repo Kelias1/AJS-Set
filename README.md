@@ -20,3 +20,5 @@ class Team {
 Метод toArray должен производить конвертацию Set в массив.
 
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/uba0g3r6r7gd5q2e?svg=true)](https://ci.appveyor.com/project/Kelias1/ajs-set)
